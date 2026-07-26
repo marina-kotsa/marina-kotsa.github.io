@@ -1,13 +1,13 @@
 # Site settings
 # Replace the placeholder values in this file before publishing.
 locale                   : "en-US"
-title                    : "Your Name"
+title                    : "Marina Kotsa"
 title_separator          : "|"
-name                     : &name "Your Name"
-description              : &description "PhD student in Field, University"
-url                      : "https://YOUR-USERNAME.github.io"
+name                     : &name "Marina Kotsa"
+description              : &description "PhD student in Economics, University College London"
+url                      : "https://marina-kotsa.github.io"
 baseurl                  : ""
-repository               : "YOUR-USERNAME/YOUR-USERNAME.github.io"
+repository               : "marina-kotsa/marina-kotsa.github.io"
 teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
@@ -32,7 +32,7 @@ facebook:
 og_image                 :
 social:
   type                   : Person
-  name                   : "Your Name"
+  name                   : "Marina Kotsa"
   alternate_name         :
   links:
     - "https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"
@@ -48,12 +48,12 @@ google_analytics         :
 
 # Site author
 author:
-  name             : "Your Name"
+  name             : "Marina Kotsa"
   avatar           : "profile.jpg"
-  bio              : "PhD student in Field, University"
+  bio              : "PhD student in Economics, University College London"
   location         :
   employer         :
-  email            : "your.email@university.edu"
+  email            : "marina.kotsa.21@ucl.ac.uk"
   uri              :
   googlescholar    :
   github           :
