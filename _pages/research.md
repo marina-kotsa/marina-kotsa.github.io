@@ -6,19 +6,13 @@ author_profile: true
 
 ## Work in Progress
 
-**Paper Title**
-
-**Paper Title** (with Coauthor Name)
+**The Hawk in the Room**
 <br/>
 <button onclick="visib('paper-one')" class="abstract-btn">Abstract</button>
 
 <div id="paper-one" style="display: none; text-align: justify; line-height: 1.2"><small>
-Write the paper abstract here.
+Coming soon!
 </small><br><br/></div>
-
-**Paper Title** (with Coauthor Name)
-
-**Paper Title** (with Coauthor Name and Coauthor Name)
 
 <style>
 .abstract-btn {

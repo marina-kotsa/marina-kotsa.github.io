@@ -24,7 +24,7 @@ yandex_site_verification :
 
 # Social sharing
 twitter:
-  username               :
+  username               : KotsaMarina
 facebook:
   username               :
   app_id                 :
@@ -35,8 +35,8 @@ social:
   name                   : "Marina Kotsa"
   alternate_name         :
   links:
-    - "https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"
-    - "https://x.com/YOUR-X-HANDLE"
+    - "https://www.linkedin.com/in/marina-kotsa"
+    - "https://x.com/KotsaMarina"
 
 # Analytics is disabled by default. Add your own provider and tracking ID if desired.
 analytics:
@@ -57,8 +57,8 @@ author:
   uri              :
   googlescholar    :
   github           :
-  twitter          : "YOUR-X-HANDLE"
-  linkedin         : "YOUR-LINKEDIN-HANDLE"
+  twitter          : "KotsaMarina"
+  linkedin         : "marina-kotsa"
   orcid            :
 
 # Reading files
