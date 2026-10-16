@@ -6,12 +6,9 @@ author_profile: true
 
 ## Work in Progress
 
-**The Hawk in the Room**
-<br/>
-<a href="{{ site.baseurl }}/pdfs/Kotsa_HawkInTheRoom_Manuscript.pdf" class="abstract-btn">PDF</a>
-<button onclick="visib('paper-one')" class="abstract-btn">Abstract</button>
+**The Hawk in the Room: Committee Composition and the Monetary Policy Shock**
 
-<div id="paper-one" style="display: none; text-align: justify; line-height: 1.2"><small>
+<p class="paper-abstract">
 Monetary policy shocks are often measured as deviations from a policy rule
 that treats the central bank as a single decision-maker. Yet committees set
 policy, and their members often disagree. Using every individual vote cast on
@@ -21,10 +18,17 @@ known before each meeting, predicts up to a fifth of the variation in the
 conventional UK monetary policy shock: part of that “exogenous” shock is the
 Committee's predictable response to its forecast. Removing this component
 eliminates the price puzzle in point estimates.
-</small><br><br/></div>
+</p>
+
+<a href="{{ site.baseurl }}/pdfs/Kotsa_HawkInTheRoom_Manuscript.pdf" class="paper-btn">PDF</a>
 
 <style>
-.abstract-btn {
+.paper-abstract {
+  margin: 0.5em 0;
+  text-align: justify;
+  line-height: 1.4;
+}
+.paper-btn {
   display: inline-block;
   margin-top: 0.2em;
   padding: 0.3em 0.9em;
@@ -39,19 +43,8 @@ eliminates the price puzzle in point estimates.
   text-decoration: none;
   transition: background-color 0.15s ease;
 }
-.abstract-btn:hover {
+.paper-btn:hover {
   background-color: #dcdcdc;
   color: #1a1a1a;
 }
 </style>
-
-<script>
- function visib(id) {
-  var x = document.getElementById(id);
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
