@@ -12,7 +12,15 @@ author_profile: true
 <button onclick="visib('paper-one')" class="abstract-btn">Abstract</button>
 
 <div id="paper-one" style="display: none; text-align: justify; line-height: 1.2"><small>
-Coming soon!
+Monetary policy shocks are often measured as deviations from a policy rule
+that treats the central bank as a single decision-maker. Yet committees set
+policy, and their members often disagree. Using every individual vote cast on
+the Bank of England's Monetary Policy Committee since 1997, I construct a
+meeting-by-meeting measure of each member's hawkishness. Committee hawkishness,
+known before each meeting, predicts up to a fifth of the variation in the
+conventional UK monetary policy shock: part of that “exogenous” shock is the
+Committee's predictable response to its forecast. Removing this component
+eliminates the price puzzle in point estimates.
 </small><br><br/></div>
 
 <style>
