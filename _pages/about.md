@@ -8,4 +8,4 @@ I am a fourth-year PhD student in Economics at [University College London](https
 
 You can find my CV [here]({{ site.baseurl }}/pdfs/CV.pdf), and my research [here]({{ site.baseurl }}/research/).
 
-You can reach me at [marina.kotsa.21@ucl.ac.uk](mailto:marina.kotsa.21@ucl.ac.uk).
+You can reach me at [marina.koca.21@ucl.ac.uk](mailto:marina.koca.21@ucl.ac.uk).
