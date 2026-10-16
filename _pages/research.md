@@ -8,7 +8,7 @@ author_profile: true
 
 **The Hawk in the Room**
 <br/>
-[PDF]({{ site.baseurl }}/pdfs/Kotsa_HawkInTheRoom_Manuscript.pdf)
+<a href="{{ site.baseurl }}/pdfs/Kotsa_HawkInTheRoom_Manuscript.pdf" class="abstract-btn">PDF</a>
 <button onclick="visib('paper-one')" class="abstract-btn">Abstract</button>
 
 <div id="paper-one" style="display: none; text-align: justify; line-height: 1.2"><small>
@@ -36,6 +36,7 @@ eliminates the price puzzle in point estimates.
   border: 0;
   border-radius: 4px;
   cursor: pointer;
+  text-decoration: none;
   transition: background-color 0.15s ease;
 }
 .abstract-btn:hover {
