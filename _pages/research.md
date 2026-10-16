@@ -8,6 +8,7 @@ author_profile: true
 
 **The Hawk in the Room**
 <br/>
+[PDF]({{ site.baseurl }}/pdfs/Kotsa_HawkInTheRoom_Manuscript.pdf)
 <button onclick="visib('paper-one')" class="abstract-btn">Abstract</button>
 
 <div id="paper-one" style="display: none; text-align: justify; line-height: 1.2"><small>
